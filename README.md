@@ -1,4 +1,4 @@
-# Fuaad Shobambi
+# Hello there! I'm Fuaad Shobambi
 
 **`Crafting Engaging User Experiences with Modern Frameworks and Creative Design`**
 <br>
