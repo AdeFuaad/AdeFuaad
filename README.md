@@ -9,7 +9,7 @@ I'm a Nigerian-born, Toronto-based Full-Stack Web Developer with a Bachelor's de
 passionate for building innovative and user-friendly web applications. Coming from a background of having
 an Artist and Sculptor as a father, I have always had a nack for having a visually pleasing and functional work.
 ```
-
+---
 
 <br>
 
@@ -27,7 +27,7 @@ an Artist and Sculptor as a father, I have always had a nack for having a visual
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br>
----
+
 <br>
 </p>
 <br>
