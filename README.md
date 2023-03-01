@@ -5,7 +5,9 @@
 <br>
 
 ```
-I'm a Nigerian-born, Toronto-based Full-Stack Web Developer with a Bachelor's degree in Computer Science, passionate for building innovative and user-friendly web applications. Coming from a background of having an Artist and Sculptor as a father, I have always had a nack for having a visually pleasing and functional work.
+I'm a Nigerian-born, Toronto-based Full-Stack Web Developer with a Bachelor's degree in Computer Science, 
+passionate for building innovative and user-friendly web applications. Coming from a background of having
+an Artist and Sculptor as a father, I have always had a nack for having a visually pleasing and functional work.
 ```
 
 ---
