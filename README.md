@@ -10,7 +10,7 @@ passionate for building innovative and user-friendly web applications. Coming fr
 an Artist and Sculptor as a father, I have always had a nack for having a visually pleasing and functional work.
 ```
 
----
+
 <br>
 
 ## Languages and Tools
