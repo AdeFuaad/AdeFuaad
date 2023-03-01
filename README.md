@@ -29,8 +29,6 @@ an Artist and Sculptor as a father, I have always had a nack for having a visual
 <br>
 ---
 <br>
-
-**`Crafting Engaging User Experiences with Modern Frameworks and Creative Design`**
 </p>
 <br>
 
