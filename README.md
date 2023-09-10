@@ -35,7 +35,7 @@ an Artist and Sculptor as a father, I have always had a nack for having a visual
 <br>
 
 
-## Stats
+<!-- ## Stats -->
 
 <br>
 <!--
