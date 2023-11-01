@@ -1,36 +1,40 @@
-# Hello there! I'm Fuaad Shobambi
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Fuaad. I create stuff!" src="./assets/gh-readme-header.png" /></a></p>
 
-**`Crafting Engaging User Experiences with Modern Frameworks and Creative Design`**
-<br>
-<br>
+<br />
 
-```
-I'm a Nigerian-born, Toronto-based Software Developer with a Bachelor's degree in Computer Science, 
-passionate for building innovative and user-friendly web applications. Coming from a background of having
-an Artist and Sculptor as a father, I have always had a nack for having a visually pleasing and functional work.
-```
----
+I'm a Software Developer based in Toronto, CA
 
-<br>
+**About me**
 
-## Languages and Tools
-<br>
-<p align="left">
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+- 💼 FrontEnd Engineer at [Adefuaad](http://adefuaad.tech/)
 
-<br>
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-<br>
-</p>
-<br>
+- ❤️ I love writing Javascript, and building fun experiments on type-level
 
-<hr>                                                                                      
-<br>
+- 💬 Ask me about anything [here](https://github.com/adefuaad/adefuaad/issues)
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>    
+
+
+
+| <a href="https://github.com/adefuaad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adefuaad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adefuaad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adefuaad&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/adefuaad/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adefuaad&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/adefuaad/adefuaad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adefuaad&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
