@@ -6,7 +6,7 @@ I'm a Software Developer based in Toronto, CA
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Adefuaad](http://adefuaad.tech/)
+- 💼 Software Developer at [Ase Community](http://adefuaad.tech/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
