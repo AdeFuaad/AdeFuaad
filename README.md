@@ -33,7 +33,7 @@ I'm a Software Developer based in Toronto, CA
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adefuaad&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/adefuaad/adefuaad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adefuaad&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adefuaad&repo=adefuaad.github.io&theme=buefy" />
 </a>
 
 <br />
