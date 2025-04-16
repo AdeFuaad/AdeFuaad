@@ -6,7 +6,7 @@ I'm a Software Developer based in Toronto, CA
 
 **About me**
 
-- 💼 Software Developer at [Ase Community](http://fuaads.com)
+- 💼 Software Developer
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
